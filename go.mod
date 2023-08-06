@@ -1,3 +1,2 @@
-module github.com/new/acorn/beforemodule
-
+module github.com/newacorn/beforemodule
 go 1.20
